@@ -1,4 +1,4 @@
-# Arduino portenta detect model and send results to the TTN (lorawan)
+# Arduino portenta ML model to detect bull dog clips (and non bull dog clips) and send results to the TTN (lorawan)
 
 This repository contains all the software side of things you need to run the project.  It includes :
 
@@ -8,4 +8,4 @@ trained.tflite - This is the model that will make a prediction based on the data
 
 Just copy the contents to the arduino portenta (with lora board attached) and play it through Openmv IDE.
 
-Thanks 
+Thanks
